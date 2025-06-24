@@ -99,4 +99,4 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 💬 Support & Community
 
 - 💬 Developer: https://t.me/isyrae
-- 📢 Channel: https://t.me/isyraepeojects
+- 📢 Channel: https://t.me/isyraeprojects
